@@ -1,0 +1,3 @@
+INSERT INTO T_PERSONS VALUES (1, 'Harry', 'Potter');
+INSERT INTO T_PERSONS VALUES (2, 'Pita', 'Malark');
+INSERT INTO T_PERSONS VALUES (3, 'John', 'Snow');

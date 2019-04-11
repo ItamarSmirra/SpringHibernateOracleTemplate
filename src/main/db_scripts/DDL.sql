@@ -1,0 +1,8 @@
+DROP TABLE T_PERSONS;
+
+CREATE TABLE T_PERSONS (
+		
+		id			NUMBER(10) PRIMARY KEY,
+		firstname 	VARCHAR2(50),
+		lasttname 	VARCHAR2(50),
+);
